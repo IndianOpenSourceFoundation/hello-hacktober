@@ -5,8 +5,17 @@ Use this project to make your first contribution to an open source project on Gi
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
+<p align="center">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/31731827/94925132-59bff280-04dc-11eb-9a66-a6968f2a0c1a.png">
+</p>
 
-[IOSF HACKTOBER](https://iosf.in/hacktober)
+<p align="center">
+  <a href="https://iosf.in/hacktober">IOSF HACKTOBER</a>
+</p>
+
+
+
+### Want to Join our slack community click [here](https://join.slack.com/t/iosf-india/shared_invite/zt-hckqtw2q-keWeJY1g43YIOhWcsycE9A) ?
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
