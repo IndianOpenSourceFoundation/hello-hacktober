@@ -114,3 +114,7 @@ Here is my `hello_world` example: [hello_world_iosf.js](https://github.com/India
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
 
+
+## 🎃 Want a real contribution - Checkout [Dynamic CLI](https://github.com/IndianOpenSourceFoundation/dynamic-cli) 🎃
+
+### NOTE - Don't forget to star this repo :)
