@@ -15,12 +15,13 @@ This repository is open to all members of the GitHub community. Any member may c
 
 
 
-### Want to Join our slack community click [here](https://join.slack.com/t/iosf-india/shared_invite/zt-hckqtw2q-keWeJY1g43YIOhWcsycE9A) ?
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+
+
 
 ## How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
@@ -122,6 +123,8 @@ Here is my `hello_world` example: [hello_world_iosf.js](https://github.com/India
 * See profiles submitted by fellow coders from around the globe ....
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
+
+### Want to Join our slack community click [here](https://join.slack.com/t/iosf-india/shared_invite/zt-hckqtw2q-keWeJY1g43YIOhWcsycE9A) ?
 
 
 ## 🎃 Want a real contribution - Checkout [Dynamic CLI](https://github.com/IndianOpenSourceFoundation/dynamic-cli) 🎃
