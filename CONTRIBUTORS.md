@@ -7,3 +7,9 @@
 - Place: Virudhunagar, Tamil Nadu, India
 - Bio: I am software developer and enthusiast to working geo spatial related applications
 - GitHub: [KMuthusamyms](https://github.com/kmuthusamyms/)
+
+#### Name: [Sinjini Roy](https://github.com/sinjinir1999)
+- Place: Kolkata, West Bengal, India
+- Bio: I am a Machine Learning Enthusiast.
+- GitHub: [sinjinir1999](https://github.com/sinjinir1999)
+
