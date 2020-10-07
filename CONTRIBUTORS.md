@@ -10,6 +10,6 @@
 
 #### Name: [Sinjini Roy](https://github.com/sinjinir1999)
 - Place: Kolkata, West Bengal, India
-- Bio: I am a Machine Learning Enthusiast.
+- Bio: I am a budding Machine Learning Engineer and a tech enthusiast.
 - GitHub: [sinjinir1999](https://github.com/sinjinir1999)
 
