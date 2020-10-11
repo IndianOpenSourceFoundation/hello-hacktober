@@ -13,3 +13,8 @@
 - Bio: I am a budding Machine Learning Engineer and a tech enthusiast.
 - GitHub: [sinjinir1999](https://github.com/sinjinir1999)
 
+#### Name: [Merin Babu](https://github.com/MerinBabu)
+- Place: Kochi, Kerala, India
+- Bio: I am a computer science student currently exploring Machine Learning.
+- GitHub: [MerinBabu](https://github.com/MerinBabu)
+
