@@ -18,3 +18,7 @@
 - Bio: I am a computer science student currently exploring Machine Learning.
 - GitHub: [MerinBabu](https://github.com/MerinBabu)
 
+### Name: [Yash-Handa](https://github.com/Yash-Handa/)
+- Place: New Delhi, India
+- Bio: I am software developer and working on Micro-service based architectures
+- GitHub: [Yash-Handa](https://github.com/Yash-Handa/)
