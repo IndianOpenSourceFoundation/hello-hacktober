@@ -27,3 +27,8 @@
 - Place: Tanda, Ambedkar Nagar, Uttar Pradesh
 - Bio: I am a Computer Science and Engineering student. I am pretty comfortable in Web dev and currently exploring Machine Learning and also competing in competitive programming.
 - GitHub: [Mohd Baqer Haider](https://github.com/haider000)
+
+#### Name: [Rajat](https://github.com/Rajat1999)
+- Place: New Delhi, India
+- Bio: I'm a UI/UX designer and a Front end web developer.
+- GitHub: [Rajat1999](https://github.com/Rajat1999)
