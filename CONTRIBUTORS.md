@@ -22,3 +22,8 @@
 - Place: New Delhi, India
 - Bio: I am software developer and working on Micro-service based architectures
 - GitHub: [Yash-Handa](https://github.com/Yash-Handa/)
+
+#### Name: [Mohd Baqer Haider](https://github.com/haider000)
+- Place: Tanda, Ambedkar Nagar, Uttar Pradesh
+- Bio: I am a Computer Science and Engineering student. I am pretty comfortable in Web dev and currently exploring Machine Learning and also competing in competitive programming.
+- GitHub: [Mohd Baqer Haider](https://github.com/haider000)
