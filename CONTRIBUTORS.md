@@ -32,3 +32,8 @@
 - Place: New Delhi, India
 - Bio: I'm a UI/UX designer and a Front end web developer.
 - GitHub: [Rajat1999](https://github.com/Rajat1999)
+
+#### Name: [Himanshu](https://github.com/himanshubohra13)
+- Place: Chandigarh, India
+- Bio: I'm a budding web developer and machine learning enthusiast.
+- GitHub: [Himanshu](https://github.com/himanshubohra13)
