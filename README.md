@@ -124,7 +124,7 @@ Here is my `hello_world` example: [hello_world_iosf.js](https://github.com/India
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
 
-### Want to Join our slack community click [here](https://join.slack.com/t/iosf-india/shared_invite/zt-hckqtw2q-keWeJY1g43YIOhWcsycE9A) ?
+### Want to Join our slack community click [here](https://join.slack.com/t/iosf-india/shared_invite/zt-is9imrls-YxBT2MJXBu4d7pJEvzAzvw) ?
 
 
 ## 🎃 Want a real contribution - Checkout [Dynamic CLI](https://github.com/IndianOpenSourceFoundation/dynamic-cli) 🎃
