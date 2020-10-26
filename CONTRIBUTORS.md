@@ -37,3 +37,8 @@
 - Place: Chandigarh, India
 - Bio: I'm a budding web developer and machine learning enthusiast.
 - GitHub: [Himanshu](https://github.com/himanshubohra13)
+
+#### Name: [Muhd Safwan Vk](https://github.com/safwanvk)
+- Place: Malappuram, Kerala, India
+- Bio: I'm a budding web developer and Python enthusiast.
+- GitHub: [safwanvk](https://github.com/safwanvk)
