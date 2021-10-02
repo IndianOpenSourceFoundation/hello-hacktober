@@ -42,3 +42,8 @@
 - Place: Malappuram, Kerala, India
 - Bio: I'm a budding web developer and Python enthusiast.
 - GitHub: [safwanvk](https://github.com/safwanvk)
+
+#### Name: [Hrithik Sahu](https://github.com/HrithikSahu)
+- Place: Mumbai, Maharashtra, India
+- Bio: I'm a Web/App Developer and Electronics and Robotics enthusiast.
+- GitHub: [HrithikSahu](https://github.com/HrithikSahu)
