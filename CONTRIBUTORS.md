@@ -47,3 +47,8 @@
 - Place: Mumbai, Maharashtra, India
 - Bio: I'm a Web/App Developer and Electronics and Robotics enthusiast.
 - GitHub: [HrithikSahu](https://github.com/HrithikSahu)
+
+#### Name: [Mansi Singla](https://github.com/mansi-singla-31215)
+- Place: Panipat, Haryana, India
+- Bio: I am a second year computer science and Engineering student currently exploring Web Dev along with C++.
+- GitHub: [mansi-singla-31215](https://github.com/mansi-singla-31215)
