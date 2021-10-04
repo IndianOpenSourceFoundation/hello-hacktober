@@ -52,3 +52,8 @@
 - Place: Panipat, Haryana, India
 - Bio: I am a second year computer science and Engineering student currently exploring Web Dev along with C++.
 - GitHub: [mansi-singla-31215](https://github.com/mansi-singla-31215)
+
+#### Name: [Arindam Raina](https://github.com/h2o-Noob)
+- Place: Faridabad, Haryana, India
+- Bio: I am student developer and enthusiast to work in web applications and blockchain and javascript.
+- GitHub: [h2o-Noob](https://github.com/h2o-Noob)
