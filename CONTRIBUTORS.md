@@ -57,3 +57,8 @@
 - Place: Faridabad, Haryana, India
 - Bio: I am student developer and enthusiast to work in web applications and blockchain and javascript.
 - GitHub: [h2o-Noob](https://github.com/h2o-Noob)
+
+#### Name: [Upasana Deka](https://github.com/upasanadeka)
+- Place: Delhi, India
+- Bio: I am a recent graduate and Software Engineer at UHG. I work on Web Development and Data Analytics.
+- GitHub: [upasanadeka](https://github.com/upasanadeka)
