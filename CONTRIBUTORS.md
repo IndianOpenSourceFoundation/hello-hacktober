@@ -62,3 +62,8 @@
 - Place: Delhi, India
 - Bio: I am a recent graduate and Software Engineer at UHG. I work on Web Development and Data Analytics.
 - GitHub: [upasanadeka](https://github.com/upasanadeka)
+
+#### Name: [Nihar Bansal](https://github.com/niharbansal02)
+- Place: Ratlam, Madhya Pradesh, India
+- Bio: I'm a third year student at Birla Institute of Technology and Science. I am keen about Machine Learning, and computer Networks.
+- GitHub: [niharbansal02](https://github.com/niharbansal02)
