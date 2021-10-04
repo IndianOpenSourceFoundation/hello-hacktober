@@ -3,4 +3,4 @@
 # AUTHOR: Muhammed Faris
 # GITHUB: https://github.com/faris404/
 
-print('\x1b[1;31;40m' +'\x1b[1;35;40m' +'Hello World !!!' + '\x1b[0m')
+print('\x1b[1;35;40m' +'Hello World !!!' + '\x1b[0m')
