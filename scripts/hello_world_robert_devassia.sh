@@ -1,6 +1,5 @@
-#!/bin/bash
 # LANGUAGE: Bash
-# ENV: Node.js
+# ENV: bash | sh
 # AUTHOR: Robert Devasia
 # GITHUB: https://github.com/docsploit
 
