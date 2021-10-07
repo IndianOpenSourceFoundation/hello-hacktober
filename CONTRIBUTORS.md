@@ -73,3 +73,7 @@
 - Bio: I am a second year computer science and Engineering student currently exploring AI and sparks AR.
 - GitHub: [yupitsadi](https://github.com/yupitsadi)
 
+#### Name: [Pragya Khanna](https://github.com/pragyakhanna11)
+- Place: New Delhi, Delhi, India
+- Bio: I am an electronics and communication undergrad at IGDTUW with a passion for machine learning
+- GitHub: [pragyakhanna11](https://github.com/pragyakhanna11)
