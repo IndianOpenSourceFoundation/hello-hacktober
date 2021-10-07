@@ -77,3 +77,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: I am an electronics and communication undergrad at IGDTUW with a passion for machine learning
 - GitHub: [pragyakhanna11](https://github.com/pragyakhanna11)
+
+#### Name: [Kashika Jain](https://github.com/Kashika18)
+- Place: New Delhi, Delhi, India
+- Bio: I am a machine learning enthusiast and a python mentor
+- GitHub: [Kashika18](https://github.com/Kashika18)
