@@ -87,3 +87,9 @@
 - Place: Alwar, Rajasthan, India
 - Bio: ASE Trainee, python and java coder
 - GitHub: [Tanmay-901](https://github.com/Tanmay-901)
+
+#### Name: [Satish Yadav](https://github.com/SatishYadav00)
+- Place: Kolkata, West Bengal, India
+- Bio: Machine Learning ,C/C++, python, java and frontend Developer
+- GitHub: [SatishYadav00](https://github.com/SatishYadav00)
+
