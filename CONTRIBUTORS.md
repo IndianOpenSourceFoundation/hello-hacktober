@@ -82,3 +82,8 @@
 - Place: New Delhi, Delhi, India
 - Bio: I am a machine learning enthusiast and a python mentor
 - GitHub: [Kashika18](https://github.com/Kashika18)
+
+#### Name: [Tanmay Khandelwal](https://github.com/Tanmay-901)
+- Place: Alwar, Rajasthan, India
+- Bio: ASE Trainee, python and java coder
+- GitHub: [Tanmay-901](https://github.com/Tanmay-901)
