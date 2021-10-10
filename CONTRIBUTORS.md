@@ -93,3 +93,8 @@
 - Bio: Machine Learning ,C/C++, python, java and frontend Developer
 - GitHub: [SatishYadav00](https://github.com/SatishYadav00)
 
+#### Name: [Ritika Goyal](https://github.com/Ritika1800)
+- Place: Delhi, India
+- Bio: I am  Sophomore at IGDTUW Pursuing Electronics and Communication Engineering. Skilled in C++, DSA and Web Developement.
+- GitHub: [Ritika1800](https://github.com/Ritika1800)
+
