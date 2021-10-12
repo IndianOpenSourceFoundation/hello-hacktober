@@ -98,3 +98,7 @@
 - Bio: I am  Sophomore at IGDTUW Pursuing Electronics and Communication Engineering. Skilled in C++, DSA and Web Developement.
 - GitHub: [Ritika1800](https://github.com/Ritika1800)
 
+#### Name: [Yashita Namdeo](https://github.com/yashitanamdeo)
+- Place: Indore, India
+- Bio: I am a Computer Science Student, with keen interest in Data Science, Machine Learning, Artificial Intelligence, Python, C++ and Web Development. 
+- GitHub: [Yashita Namdeo](https://github.com/yashitanamdeo)
