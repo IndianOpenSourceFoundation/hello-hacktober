@@ -102,3 +102,9 @@
 - Place: Indore, India
 - Bio: I am a Computer Science Student, with keen interest in Data Science, Machine Learning, Artificial Intelligence, Python, C++ and Web Development. 
 - GitHub: [Yashita Namdeo](https://github.com/yashitanamdeo)
+
+#### Name: [Motasim](https://github.com/motasimmakki)
+- Place: Saharanpur, U.P, India 
+- Bio: A focused and ambitious Computer Science Engineering student, who is passionate about coding and enjoys to experiment with new technologies.
+- LinkedIn: [Motasim](https://www.linkedin.com/in/motasim-010b0a135/)
+- GitHub: [Motasim](https://github.com/motasimmakki)
