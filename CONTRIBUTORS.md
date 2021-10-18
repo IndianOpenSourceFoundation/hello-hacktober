@@ -108,3 +108,9 @@
 - Bio: A focused and ambitious Computer Science Engineering student, who is passionate about coding and enjoys to experiment with new technologies.
 - LinkedIn: [Motasim](https://www.linkedin.com/in/motasim-010b0a135/)
 - GitHub: [Motasim](https://github.com/motasimmakki)
+
+#### Name: [Narayan Soni](https://github.com/narayan954)
+- Place: Fatehpur, U.P, India 
+- Bio: A learning Computer Science Engineering student, who is passionate about coding and contributes to open source.
+- LinkedIn: [Narayan](https://www.linkedin.com/in/narayan-soni/)
+- GitHub: [Narayan](https://github.com/narayan954)
