@@ -114,3 +114,9 @@
 - Bio: A learning Computer Science Engineering student, who is passionate about coding and contributes to open source.
 - LinkedIn: [Narayan](https://www.linkedin.com/in/narayan-soni/)
 - GitHub: [Narayan](https://github.com/narayan954)
+
+#### Name: [Poras Saini](https://github.com/poras2001)
+- Place: Noida, U.P, India 
+- Bio: A tech freak who's now getting his hands on coding!
+- LinkedIn: [Poras](https://www.linkedin.com/in/poras-saini-013424221/)
+- GitHub: [Poras](https://github.com/poras2001)
