@@ -115,8 +115,9 @@
 - LinkedIn: [Narayan](https://www.linkedin.com/in/narayan-soni/)
 - GitHub: [Narayan](https://github.com/narayan954)
 
-#### Name: [Poras Saini](https://github.com/poras2001)
-- Place: Noida, U.P, India 
-- Bio: A tech freak who's now getting his hands on coding!
-- LinkedIn: [Poras](https://www.linkedin.com/in/poras-saini-013424221/)
-- GitHub: [Poras](https://github.com/poras2001)
+
+#### Name: [Sagar Maheshwari](https://github.com/sagar-maheshwari653)
+- Place: Ajmer, Rajasthan, India 
+- Bio: A Computer Science and Engineering student, who is passionate about coding, web development & ML enthusiast and exploring open source.
+- LinkedIn: [Sagar Maheshwari](https://www.linkedin.com/in/sagar-maheshwari-3330b6166/)
+- GitHub: [sagar-maheshwari653](https://github.com/sagar-maheshwari653)
