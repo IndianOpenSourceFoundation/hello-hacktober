@@ -115,6 +115,7 @@
 - LinkedIn: [Narayan](https://www.linkedin.com/in/narayan-soni/)
 - GitHub: [Narayan](https://github.com/narayan954)
 
+
 #### Name: [Sagar Maheshwari](https://github.com/sagar-maheshwari653)
 - Place: Ajmer, Rajasthan, India 
 - Bio: A Computer Science and Engineering student, who is passionate about coding, web development & ML enthusiast and exploring open source.
