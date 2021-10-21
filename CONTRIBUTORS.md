@@ -121,3 +121,9 @@
 - Bio: A Computer Science and Engineering student, who is passionate about coding, web development & ML enthusiast and exploring open source.
 - LinkedIn: [Sagar Maheshwari](https://www.linkedin.com/in/sagar-maheshwari-3330b6166/)
 - GitHub: [sagar-maheshwari653](https://github.com/sagar-maheshwari653)
+
+#### Name: [Shashwat Bangar](https://github.com/shashwatbangar)
+- Place: Indore, India
+- Bio: I am a Computer Science Student, with keen interest in front-end web development and data structures. 
+- LinkedIn: [Shashwat Bangar](https://www.linkedin.com/in/shashwatbangar/)
+- GitHub: [Shashwat Bangar](https://github.com/shashwatbangar)
