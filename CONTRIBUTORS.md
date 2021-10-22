@@ -127,3 +127,8 @@
 - Bio: I am a Computer Science Student, with keen interest in front-end web development and data structures. 
 - LinkedIn: [Shashwat Bangar](https://www.linkedin.com/in/shashwatbangar/)
 - GitHub: [Shashwat Bangar](https://github.com/shashwatbangar)
+
+#### Name: [Markandey Sharma](https://github.com/markandey007)
+- Place: Mau,Uttar Pradesh, India
+- Bio: Aspiring Computer Science Engineer.
+- GitHub: [Markandey Sharma](https://github.com/markandey007)
