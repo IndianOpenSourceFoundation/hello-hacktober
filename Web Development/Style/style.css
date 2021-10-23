@@ -1,0 +1,94 @@
+/*This css file is used in Basic HTML index.html file.*/
+
+p{
+	font-size: 20px;
+	color: red;
+	font-style: italic;
+
+}
+h1{
+	color: darkgoldenrod;
+}
+
+.fontStyle{
+	font-style: italic;
+	color: blue;
+
+}
+
+#head-blog:hover{
+	color: orange;
+}
+
+#navi h2{		/* nasting of element to apply common css */
+	color: red;
+}
+
+p , h1{
+	color: deepskyblue;
+}
+
+.widget{
+	border-top: 4px solid black;
+}
+
+.widget input{
+	display: block;
+	background-color: #F7F7f7;
+	margin-bottom: 15px;
+	padding: 4px;
+	color: black;
+	font-size: 1.2rem;
+
+}
+
+button[type= "submit"]{
+	font-size: 1.2rem;
+	background-color: orange;
+	color: white;
+	padding: 10px;
+}
+ button[type = "submit"] :hover{
+ 	background-color: red;
+ }
+
+.foot{
+	display: inline-block;
+	width: 10%;
+	vertical-align: bottom;
+	margin-top: 10px;
+	position: static;
+
+
+}
+section{
+   width: 60%;
+   display: inline-block;
+   vertical-align: bottom;
+
+
+}
+
+.widget-list{
+	font-size: 1.5rem;
+}
+
+aside{
+	display: inline-block;
+	width: 10%;
+	vertical-align: top;
+	margin-left: 4rem;
+	margin-top: 10rem;
+
+}
+
+#btotop{
+	display: block;
+	/*border: 2px solid black;*/
+	margin: 2px;
+	text-align: center;
+	text-decoration: none;
+	font-style: italic;
+	text-transform: uppercase;
+
+}

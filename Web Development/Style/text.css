@@ -1,0 +1,12 @@
+#Para{
+	color: deepskyblue;
+	font-size: 20px;
+	font-weight: 300;  /*weight means thickness .*/
+    text-align: center;
+    line-height: 40px;   /* Gap between two gaps. */
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color:pink;
+    text-underline-position: left;
+    text-decoration: none;
+} 

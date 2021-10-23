@@ -1,0 +1,32 @@
+.main{
+	border: 2px solid red;
+
+}
+
+.main div{
+	height: 200px;
+	width: 200px;
+}
+
+#div1{
+	background-color: rosybrown;
+	position: relative;   
+	left: 10px;
+	top : 4px;
+}
+#div2{
+	background-color: saddlebrown;
+	/*position: absolute; relative with parent
+	left: 15px;
+	right: 3px;*/
+}
+#div3{
+	background-color: navy;
+/*	position: fixed;   relative with view port.
+	left : 10px;
+	right : 10px;*/
+ }
+
+#Note{
+	text-align: justify;
+}
