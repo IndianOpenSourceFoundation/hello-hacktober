@@ -1,0 +1,43 @@
+#back{
+	height: 200px;
+	width: 300px;
+
+
+   /*  #dbf6f7; */			   		/*hexadecimal value*/
+ /*	rgb(20, 123, 32); */			/* rgb value*/
+ /*	rgba(20, 123, 23, .3); */		 /* a for alfa */
+ /*	hsl(20, 50%, 30%);	*/	 	   /*hsl value*/   
+/*	 hsla(20, 50%, 30%, 1); */		 /* a for alfa */
+
+   background-color: red;
+
+
+   /*view port hight and width for visible screen*/
+   /* height: 100vh;
+     width: 50vw;*/
+
+   /*  Border */
+   /*border-width: 10px;
+   border-style: solid;
+   border-color: red;*/
+
+   border: 5px solid blue;
+   background-color: red;
+
+}   
+
+/*1px = 1/96 inchs*/
+#back1{
+	height: 100px;
+	width: 150px;
+
+	height: 50%;  /*This percent is relative with parent.*/
+	width: 70%;
+	background-color: cyan;	
+}
+
+#para{
+	/*border: 4px solid green;*/
+	border-left: 10px solid red;
+}
+
