@@ -137,3 +137,9 @@
 - Place: Kolkatta ,WB, India
 - Bio: A Student ,  Contributor , Engineer 😉
 - GitHub: [Danish Belal](https://github.com/Danish-Belal)
+
+#### Name: [Sangeeta Jha](https://github.com/nehasangeetajha)
+- Place: Delhi, India
+- Bio: A Student, Web Developer, Former GDSC Lead
+- GitHub: [Sangeeta Jha](https://github.com/nehasangeetajha)
+
