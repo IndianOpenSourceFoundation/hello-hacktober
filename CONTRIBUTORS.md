@@ -132,3 +132,8 @@
 - Place: Mau,Uttar Pradesh, India
 - Bio: Aspiring Computer Science Engineer.
 - GitHub: [Markandey Sharma](https://github.com/markandey007)
+
+#### Name: [Danish Belal](https://github.com/Danish-Belal)
+- Place: Kolkatta ,WB, India
+- Bio: A Student ,  Contributor , Engineer 😉
+- GitHub: [Danish Belal](https://github.com/Danish-Belal)
