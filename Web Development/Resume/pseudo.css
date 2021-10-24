@@ -1,0 +1,14 @@
+p:active{
+	background-color: cyan;
+}
+a:active{
+   color: red;
+}
+ 
+a:visited{
+	color: green;
+}
+p{
+	text-align: center;
+	font-size: 30px;
+}
