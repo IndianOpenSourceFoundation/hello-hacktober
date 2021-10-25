@@ -143,3 +143,8 @@
 - Bio: A Student, Web Developer, Former GDSC Lead
 - GitHub: [Sangeeta Jha](https://github.com/nehasangeetajha)
 
+#### Name: [Guilherme Orcezi](https://github.com/guilhermeorcezi)
+- Place: Potim, São Paulo
+- Bio: Fullstack javascript developer focusing on react/next and react native.
+- GitHub: [Guilherme Orcezi](https://github.com/guilhermeorcezi)
+
