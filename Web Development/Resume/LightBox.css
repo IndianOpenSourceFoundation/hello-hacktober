@@ -1,0 +1,28 @@
+body{
+	background-color: lightcyan;
+	font-family: sans-serif;
+	
+}
+
+#lightBox{
+	height: 0;
+	width: 0;
+	position: fixed;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	transition: all 2s ease-in-out;
+}
+
+div a{
+	text-decoration: none;
+}
+
+#lightBox:target{
+	height: 30%;
+	width: 30%;
+	top: 25%;
+	left: 25%;
+	background-color: green;
+
+}
