@@ -67,18 +67,30 @@ body{
 .Social-icons li a img:hover{
 	box-shadow: 0px 0px 6px 4px gray;
 
+
 }
 
-/*.Social-icons{
-	margin-left: auto;
-	margin-right: auto;
-}*/
+.Social-icons {
+	align-items: center;
+}
 
 #Socails li{
 	display: inline;
+}
+section{
+	width: 100%;
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 
 }
-
+section:nth-child(2n) {
+    background-color: #9e9b9b29;
+}
+section:nth-child(2n + 1) {
+    background-color: white;
+}
 #home{
 	height: auto;
 	width: 100%;
@@ -103,36 +115,156 @@ body{
 	text-align: center;
     font-size: 20px;
 }
-#experiance{
-	margin: 20px;
-	font-size: 20px;
-	text-align: center;
+.skills-display {
+    width: 75%;
+    padding: 10px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.skill-progress {
+    width: 11rem;
+    height: 2.2rem;
+    background-color: lightgrey;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 2px 1px #b9b9b9 inset;
+    margin: 25px;
+    overflow: hidden;
+}
+
+.skill-progress > div {
+    border-radius: 20px 0px 0px 20px;
+    box-shadow: 1px 1px 5px 2px #989882;
+}
+
+.skill-name span {
+    color: white;
+    font-size: 1rem;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+/* Setting Backgroung of Skills   */
+m-blue {
+    color: #2857a4;
+}
+
+.mb-blue {
+    background-color: #2857a4;
+}
+
+.mb-orange {
+    background-color: #ec4d1c;
+}
+
+.mb-teal {
+    background-color: #0b8176;
+}
+
+.mb-light-purple {
+    background-color: #93738c;
+}
+
+
+
+/*Percentage Classes */
+
+.eighty-five-percent {
+    height: inherit;
+    width: 85%;
+}
+
+.eighty-percent {
+    height: inherit;
+    width: 80%;
+}
+
+.fifty-percent {
+    height: inherit;
+    width: 50%;
+}
+
+/*Time line Section*/
+.timeline{
+	position: relative;
+	width: 75%;
+	border: 2px solid black;
+	margin-bottom: 12%;
 
 }
-#experiance a{
-	text-decoration: none;
-}
 
-#education{
-	font-size: 20px;
-	margin: 20px;
-	text-align: center;
+.timeline-box{
+	position: relative;
+	margin: 5px;
+	width: 40%;
+	left: 5%;
+	min-height: 150px;
 	border: 2px solid black;
 	border-radius: 5%;
-	background-color: rgb(240, 255, 255);
-
+	background-color: rgba(234, 241, 123, 0.2);
 }
-#education a{
-	text-decoration: none;
-}
-/*#education{
-	border: 2px solid black;
-	border-radius: 10%;
-}*/
-#experiance{
-	border-radius: 5%;
-	border: 2px solid; black;
-	background-color: rgb(240, 255, 255);
+.timeline-box:hover{
+	box-shadow: 2px 2px 5px 2px #989882;
 }
 
+.timeline-box h3::before{
+	content:  ' ';
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	border-radius: 30%;
+	background-size: contain;
+	background-image: url(Images/Danish.jpeg);
+
+}
+
+
+.timeline-box:nth-child(2n){
+	left: 53%;
+}
+
+
+.timeline-box:nth-child(2n+1)::after{
+	content: '';
+	position: absolute;
+	top: 35%;
+	right: -13%;
+	border-radius: 50%;
+	width: 0.5rem;
+	height: 0.5rem;
+	background-color: red;
+	z-index: 1;
+}
+
+.timeline-box:nth-child(2n)::after{
+	content: '';
+	position: absolute;
+	top: 35%;
+	left: -9%;
+	border-radius: 50%;
+	width: 0.5rem;
+	height: 0.5rem;
+	background-color: red;
+	z-index: 1;
+}
+
+.timeline-divider{
+	position: absolute;
+	height: 75%;
+	width: 0;
+	border: 3px dashed lightblue;
+	top: 10%;
+	left: 50%;
+
+}
+.timeline-travler{
+	position: sticky;
+	top: 25%;
+	transform: rotate(90deg);
+}
+
+.timeline-box{
+	text-align: center;
+}
 
