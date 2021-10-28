@@ -1,0 +1,52 @@
+
+/* Desktop-first Approach */
+/*
+#div3{
+	width: 60%;
+	border: 1px solid black;
+}
+
+@media screen and (max-width: 1000px){
+	#div3{
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 900px){
+	#div3{
+		width: 80%;
+	}
+}
+
+/* Applying media Queries , if width is less than 60%  */
+/*@media screen and (max-width: 600px){
+	#div3{
+		width: 100%;
+	}
+}
+*/
+
+
+/* Mobile first Approach */
+#div3{
+	width: 100%;
+	border: 1px solid black;
+}
+
+@media screen and (min-width:  600px){
+	#div3{
+		width: 80%;
+	}
+}
+
+@media screen and (min-width:  900px){
+	#div3{
+		width: 60%;
+	}
+}
+
+
+
+
+
+
