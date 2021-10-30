@@ -148,3 +148,7 @@
 - Bio: Fullstack javascript developer focusing on react/next and react native.
 - GitHub: [Guilherme Orcezi](https://github.com/guilhermeorcezi)
 
+#### Name: [Shahid Nadaf](https://github.com/shahidcode)
+- Place: Maharashtra,India
+- Bio: Fullstack web developer,open source enthusiast.
+- GitHub: [Shahid Nadaf](https://github.com/shahidcode)
