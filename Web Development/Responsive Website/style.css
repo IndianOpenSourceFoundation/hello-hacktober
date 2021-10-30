@@ -1,0 +1,14 @@
+
+body{
+	text-align: justify;
+}
+html{
+	font-size: 20px;
+}
+#div1{
+	border: 2px solid black;
+	height: 300px;
+	width: 900px;
+	/*overflow: auto;*/
+
+}
