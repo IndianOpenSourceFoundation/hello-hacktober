@@ -1,0 +1,55 @@
+
+/*Creating an Animation.*/
+
+@keyframes changeShape{
+
+	from{
+		border-radius: 0%;
+	}
+	25%{
+		border-radius: 12.5%;
+	}
+	50%{
+		border-radius: 25%;
+	}
+	to{
+		border-radius: 50%;
+	}
+}
+
+@keyframes reduceSize{
+	from{
+		height: 200px;
+		width: 200px;
+	}
+	to{
+		height: 100px;
+		width: 100px;
+	}
+}
+
+@keyframes rotate{
+	from{
+		transform: rotate(0deg);
+	}
+	to{
+		transform: rotate(360deg);
+	}
+}
+
+.div1{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	background-color: aquamarine;
+	left: 40%;
+	top: 40%;
+	/*animation: changeShape 1s ease-in-out infinite;*/
+	/*animation: changeShape 1s ease-in-out 4 alternate;*/
+	animation-name: changeShape , rotate , reduceSize ;
+	animation-duration: 0.8s , 0.8s , 0.8s;
+	animation-iteration-count: infinite , infinite , infinite;
+	animation-direction: alternate , alternate , alternate;
+
+
+}
