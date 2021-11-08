@@ -1,0 +1,18 @@
+.div1{
+	height: 300px;
+	width: 300px;
+	background-color: aquamarine;
+	margin: 5px;
+	position: absolute;
+	/*transform: scale(0.5 , 0.4);*/   /*change shape*/
+	/*transform: translate(10%);*/
+
+	/*transition: 1s ease-in-out 0.5s;*/
+	transition:height 1s ease-in-out ;
+
+}
+
+.div1:hover{
+	height: 500px;
+	width: 500px;
+}

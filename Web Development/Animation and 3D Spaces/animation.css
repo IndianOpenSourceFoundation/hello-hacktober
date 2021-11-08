@@ -1,0 +1,39 @@
+.div1{
+	height: 100px;
+	width: 100px;
+	background-color: aquamarine;
+	margin-left: 200px;
+	margin-top:  200px;
+	transition: 1s ease-in-out 0.5s ;
+}
+
+.div1:hover{
+	transform: scale(1.5) translate(150px);
+}
+
+.div2{
+	height: 100px;
+	width: 100px;
+	background-color: cyan;
+	margin-left: 200px;
+	margin-top:  200px;
+	transition:1s steps(4 , end) ;
+}
+
+.div2:hover{
+	transform: scale(1.5) translate(160px);
+} 
+
+.div3{
+	height: 100px;
+	width: 100px;
+	background-color: forestgreen;
+	margin-top: 150px;
+	margin-left: 20px;
+	transition: 1s linear;
+}
+
+.div3:hover{
+	transition: scale(0.6) ;
+
+}
