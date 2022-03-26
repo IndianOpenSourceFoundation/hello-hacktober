@@ -152,3 +152,8 @@
 - Place: Maharashtra,India
 - Bio: Fullstack web developer,open source enthusiast.
 - GitHub: [Shahid Nadaf](https://github.com/shahidcode)
+
+#### Name: [Jym Patel](https://github.com/JymPatel)
+- Place: India
+- Bio: studying CS, interested in Mechatronics, doing GitHub Projects.
+- GitHub: [JymPatel](https://github.com/JymPatel)
